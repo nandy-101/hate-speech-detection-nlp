@@ -1,5 +1,5 @@
 # hate-speech-detection-nlp
-Developed a Hate Speech Detection model that can accurately classify tweets as Hate Speech, Offensive, or Neither.
+**Developed a Hate Speech Detection model that can accurately classify tweets as Hate Speech, Offensive, or Neither**
 
 Hate speech detection is a crucial task in Natural Language Processing (NLP), aimed at identifying harmful and offensive content in textual data. My study explores various techniques for text preprocessing, feature extraction, and classification to build an effective hate speech detection model. The dataset used consists of labeled tweets categorized as Hate Speech, Offensive Language, or Neither. The preprocessing phase involves text normalization, stopword removal, POS tagging, and dependency parsing to enhance the quality of input data.
 
